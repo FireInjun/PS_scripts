@@ -1,0 +1,13 @@
+`Present Students` is strictly for those who are present in the *lecture*. For non-lecture days, please check to see if they have submitted the PR and track their commits for the evening to ensure they are present.
+
+`Absent Students` is also strictly for those who are *not* present in the *lecture*. For non-lecture days, it would be those who are not pushing up the commits to their PR for that night. Make sure to reach out to them and inform me any of the students who are not pushing up the commits after some time has passed (I would give it an hour).
+
+For taking attendance with lecture participation, I would give the students at least 30 minutes before marking them absent.
+
+`.....First Hour Activity` is strictly for CC solutions or peer code review. Anyone absent from it does not go to *Absent Students*
+
+For *_Sprint Challenge_* days - you need to fill out `Present Students` based on their PR submission within the first hour.
+
+If a student is absent or shows up really late, they should have a valid reason which they should have informed you *in advance*. In this case you have to make sure to inform me so I don’t put it down as an unexcused absence from my end. An excused absence makes a huge difference from an unexcused absence.
+
+I hope this clears everything regarding the student attendance. Please let me know if you have any questions - otherwise please give me a check mark so I know that you will mark on the correct sections moving forward. Thank you!!
